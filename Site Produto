@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soluções Digitais</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Soluções Digitais</h1>
+        <p>Os melhores produtos para transformar sua vida!</p>
+    </header>
+    <main>
+        <section id="produtos">
+            <h2>Produtos em Destaque</h2>
+            <div class="product">
+                <h3>Curso de Marketing Digital</h3>
+                <p>Aprenda estratégias avançadas para alavancar seus negócios.</p>
+                <a href="https://hotmart.com/linkdoproduto" target="_blank" class="btn">Saiba Mais</a>
+            </div>
+            <div class="product">
+                <h3>Plano de Saúde e Bem-Estar</h3>
+                <p>Descubra como melhorar sua qualidade de vida com práticas simples.</p>
+                <a href="https://hotmart.com/linkdoproduto" target="_blank" class="btn">Saiba Mais</a>
+            </div>
+        </section>
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Para dúvidas ou informações, entre em contato:</p>
+            <p>E-mail: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a></p>
+            <p>WhatsApp: <a href="https://wa.me/seunumerowhatsapp">Clique aqui</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Soluções Digitais - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
